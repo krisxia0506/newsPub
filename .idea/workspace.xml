@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="newsPub:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37a685ff-e80d-47fe-8a5b-ef0b54246fcb" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/newsPub_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Tomcat_9_0_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newsPub.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/CommentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/CommentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/NewsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/NewsPageDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/Newstype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/NewstypeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/beans/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/servlet/AjaxCheckServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/servlet/CommentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/servlet/NewsServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/servlet/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/util/DBGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/news/util/DateTimeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/addNews.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/checkvaild.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/common/bottom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/common/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/common/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dispNews.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/topbarbackground.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/fun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/listComment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/listNews.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/manageComment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/manageNews.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/modiNews.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/modiUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/userLogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/userRegister.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/userVeriRegister.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第10周上机实验.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2EkB7Qrvvys4rECVnZtFmty61o5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "D:/java web/news/newsPub/web/images",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java web\news\newsPub\web\images" />
+      <recent name="D:\java web\news\newsPub\web\js" />
+      <recent name="D:\java web\新闻发布系统\newsPub\web\WEB-INF\lib" />
+      <recent name="D:\java web\新闻发布系统\newsPub\web" />
+      <recent name="D:\java web\新闻发布系统\newsPub\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java web\news\newsPub\web" />
+      <recent name="D:\java web\新闻发布系统\newsPub\web\WEB-INF\lib" />
+      <recent name="D:\java web\新闻发布系统\newsPub\web\common" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="news.beans" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 9.0.64">
+    <configuration name="Tomcat 10.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="newsPub:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/newsPub_Web_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="bf6e0493-e1b2-485e-a103-b103d048c190" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3290" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="newsPub:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat 服务器.Tomcat 10.0.27" />
+      <item itemvalue="Tomcat 服务器.Tomcat 9.0.64" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="37a685ff-e80d-47fe-8a5b-ef0b54246fcb" name="变更" comment="" />
+      <created>1663129534511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663129534511</updated>
+      <workItem from="1663129535743" duration="4851000" />
+      <workItem from="1663157061597" duration="21000" />
+      <workItem from="1663160380809" duration="390000" />
+      <workItem from="1663201883123" duration="121000" />
+      <workItem from="1663202013653" duration="30000" />
+      <workItem from="1663202054399" duration="25000" />
+      <workItem from="1663202088809" duration="44000" />
+      <workItem from="1663343745694" duration="181000" />
+      <workItem from="1663763255522" duration="92000" />
+      <workItem from="1663890899895" duration="3135000" />
+      <workItem from="1663897641490" duration="773000" />
+      <workItem from="1663898745052" duration="165000" />
+      <workItem from="1663989824316" duration="190000" />
+      <workItem from="1664419673826" duration="4290000" />
+      <workItem from="1664424026955" duration="847000" />
+      <workItem from="1664424885082" duration="1006000" />
+      <workItem from="1664496121659" duration="4307000" />
+      <workItem from="1664685022362" duration="11000" />
+      <workItem from="1664942687791" duration="4292000" />
+      <workItem from="1664960759662" duration="1845000" />
+      <workItem from="1665101509625" duration="3869000" />
+      <workItem from="1665155311180" duration="1689000" />
+      <workItem from="1665309951506" duration="600000" />
+      <workItem from="1665396279788" duration="1000" />
+      <workItem from="1665546236264" duration="6220000" />
+      <workItem from="1665553398623" duration="621000" />
+      <workItem from="1665713623732" duration="5010000" />
+      <workItem from="1665800730578" duration="2774000" />
+      <workItem from="1666018729701" duration="8000" />
+      <workItem from="1666162597263" duration="2559000" />
+      <workItem from="1666310180672" duration="561000" />
+      <workItem from="1666787506566" duration="759000" />
+      <workItem from="1666837283056" duration="9051000" />
+      <workItem from="1666914688000" duration="89000" />
+      <workItem from="1666914796303" duration="5860000" />
+      <workItem from="1666958910029" duration="4086000" />
+      <workItem from="1666970337346" duration="747000" />
+      <workItem from="1667304944168" duration="114000" />
+      <workItem from="1667355179742" duration="3553000" />
+      <workItem from="1667400620011" duration="166000" />
+      <workItem from="1667442389746" duration="4552000" />
+      <workItem from="1667447214475" duration="1765000" />
+      <workItem from="1667457850640" duration="581000" />
+      <workItem from="1667460500335" duration="2264000" />
+      <workItem from="1667520965555" duration="3800000" />
+      <workItem from="1667573553814" duration="1882000" />
+      <workItem from="1667625143952" duration="5292000" />
+      <workItem from="1667705222669" duration="622000" />
+      <workItem from="1667786221034" duration="11000" />
+      <workItem from="1667897273034" duration="40000" />
+      <workItem from="1667981866001" duration="840000" />
+      <workItem from="1667982726657" duration="66000" />
+      <workItem from="1667982805393" duration="3260000" />
+      <workItem from="1667988526398" duration="7303000" />
+      <workItem from="1668065931946" duration="196000" />
+      <workItem from="1668066142174" duration="601000" />
+      <workItem from="1668083297952" duration="689000" />
+      <workItem from="1668565753586" duration="520000" />
+      <workItem from="1668778233272" duration="81000" />
+      <workItem from="1668907981959" duration="1819000" />
+      <workItem from="1668913995980" duration="1783000" />
+      <workItem from="1668997560771" duration="22966000" />
+      <workItem from="1669077133131" duration="1451000" />
+      <workItem from="1669079138206" duration="15111000" />
+      <workItem from="1669102443890" duration="4041000" />
+      <workItem from="1669123784832" duration="6167000" />
+      <workItem from="1669170187544" duration="13152000" />
+      <workItem from="1669190085752" duration="15154000" />
+      <workItem from="1669259717231" duration="38000" />
+      <workItem from="1669264657548" duration="1644000" />
+      <workItem from="1669276832840" duration="13859000" />
+      <workItem from="1669442928135" duration="27672000" />
+      <workItem from="1669513079979" duration="7088000" />
+      <workItem from="1669536479921" duration="4069000" />
+      <workItem from="1669595244056" duration="1011000" />
+      <workItem from="1669626222550" duration="847000" />
+      <workItem from="1669629656616" duration="613000" />
+      <workItem from="1669779018061" duration="949000" />
+      <workItem from="1669898385059" duration="49000" />
+      <workItem from="1669898469568" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
