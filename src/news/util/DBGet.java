@@ -13,7 +13,7 @@ public class DBGet {
     static String username = "root";
     static String password = "mysql";
 
-    //Connection
+    //Connection1
     public static Connection getConnection() {
         Connection conn = null;
         try {
